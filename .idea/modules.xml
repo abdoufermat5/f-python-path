@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../advent-of-code/.idea/advent-of-code.iml" filepath="$PROJECT_DIR$/../advent-of-code/.idea/advent-of-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/fluent-python.iml" filepath="$PROJECT_DIR$/.idea/fluent-python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../galsen-brain/.idea/galsen-brain.iml" filepath="$PROJECT_DIR$/../galsen-brain/.idea/galsen-brain.iml" />
     </modules>
   </component>
 </project>
