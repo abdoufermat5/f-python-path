@@ -1,4 +1,20 @@
-# coding: utf-8
+import unicodedata
+
+
+def shave_marks(txt):
+    """Remove all diacritic marks
+    A diacritic mark is for example the accent on the e in café, or the tilde on the n in jalapeño etc.
+    NFC: Normalization Form C is composed of base characters and combining characters. For example, the character é
+    can be represented as a single character (the base e) or as two characters: the base e and the combining
+    acute accent character.
+    NFD: Normalization Form D decomposes characters into a base character and a combining character.
+    For example, the character é is decomposed into e and ́ (an acute accent mark).
+    """
+    norm_txt = unicodedata.normalize('NFD', txt)
+    shaved = ''.join(c for c in norm_txt if not unicodedata.combining(c))
+    return unicodedata.normalize('NFC', shaved)
+
+
 if __name__ == "__main__":
     my_cafe = "Café chaud"
     ENCODING = "ascii"
@@ -64,6 +80,11 @@ if __name__ == "__main__":
 
     # BEWARE
     four_squared = '4²'
-    nfkc_four_squared = normalize("NFKC", four_squared) # ouput: 42 which doesn't make sens!
+    nfkc_four_squared = normalize("NFKC", four_squared)  # ouput: 42 which doesn't make sens!
     print(nfkc_four_squared)
 
+    nfd_four_squared = normalize("NFD", four_squared)  # no change
+    print("NFD: ", nfd_four_squared)
+
+    order = '“Herr Voß: • ½ cup of Œtker™ caffè latte • bowl of açaí.”'
+    print(shave_marks(order))

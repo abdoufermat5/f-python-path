@@ -1,3 +1,7 @@
+FIRST OF ALL 1 character == 1 byte
+
+----
+
 In Python, encoding and decoding are essential operations for converting text data between different formats, such as Unicode characters and bytes. Encoding involves converting text characters into a sequence of bytes, while decoding reconstructs the original text characters from a sequence of bytes.
 
 **Encoding**
