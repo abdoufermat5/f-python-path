@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c83d2fa5-7f1d-451d-a01f-ccb8b22487ba" name="Changes" comment="great path">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p2-data-structures/data/python-references.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p2-data-structures/object-references-mutab-recycl/identity-equality-references.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p2-data-structures/object-references-mutab-recycl/notes-on-ID-EQ-ALIAS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p2-data-structures/object-references-mutab-recycl/notes-on-OBJ-LIFE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p3-functions-as-objects/functions-as-firts-class-obj/notes-on-CALLABLE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fluent-python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structures/Encoding-decoding.md" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/Encoding-decoding.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structures/PEP-412.md" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/PEP-412.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structures/chap3-dataclass/coordinates.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/chap3-dataclass/coordinates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structures/chap3-dataclass/notes-on-TYPING.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/chap3-dataclass/notes-on-TYPING.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structures/data/cafe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/data/cafe.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structures/data/dummy" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/data/dummy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structures/normalization.md" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/normalization.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structures/notes-on-ENC-DEC_encoding-decoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/notes-on-ENC-DEC_encoding-decoding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structures/notes-on-UNICODE.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/notes-on-UNICODE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structures/notes-on_DICTS_dict-variations.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/notes-on_DICTS_dict-variations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structures/notes-on_ITERABLES_slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/notes-on_ITERABLES_slicing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structures/notes-on_ITERABLES_tuple-vs-list.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/notes-on_ITERABLES_tuple-vs-list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structures/notes-on_LISTS_sort-vs-sorted.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/notes-on_LISTS_sort-vs-sorted.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structures/notes-on_LISTS_start-and-plus-operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/notes-on_LISTS_start-and-plus-operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structures/notes-on_STRINGS-BYTES_unicode-text-versus-bytes.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/notes-on_STRINGS-BYTES_unicode-text-versus-bytes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structures/notes-on_TUPLES_check-immutability.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/notes-on_TUPLES_check-immutability.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structures/python-array-module-overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/python-array-module-overview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structures/unicode-sandwich.md" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/unicode-sandwich.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prologue/python-data-model/2d-vector.py" beforeDir="false" afterPath="$PROJECT_DIR$/p1-prologue/python-data-model/2d-vector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prologue/python-data-model/pythonic-deck-card.py" beforeDir="false" afterPath="$PROJECT_DIR$/p1-prologue/python-data-model/pythonic-deck-card.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2aict3S3Fxtz9KrNvmfsh4TkhvJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/abdou/Documents/apps/fluent-python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c83d2fa5-7f1d-451d-a01f-ccb8b22487ba" name="Changes" comment="" />
+      <created>1704805051964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704805051964</updated>
+      <workItem from="1704805053836" duration="2568000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="great path" />
+    <option name="LAST_COMMIT_MESSAGE" value="great path" />
+  </component>
+</project>
