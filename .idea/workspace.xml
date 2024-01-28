@@ -5,44 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c83d2fa5-7f1d-451d-a01f-ccb8b22487ba" name="Changes" comment="great path">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p2-data-structures/data/python-references.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p2-data-structures/object-references-mutab-recycl/identity-equality-references.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p2-data-structures/object-references-mutab-recycl/notes-on-ID-EQ-ALIAS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p2-data-structures/object-references-mutab-recycl/notes-on-OBJ-LIFE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p3-functions-as-objects/functions-as-firts-class-obj/notes-on-CALLABLE.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fluent-python.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/Encoding-decoding.md" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/Encoding-decoding.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/PEP-412.md" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/PEP-412.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/chap3-dataclass/coordinates.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/chap3-dataclass/coordinates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/chap3-dataclass/notes-on-TYPING.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/chap3-dataclass/notes-on-TYPING.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/data/cafe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/data/cafe.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/data/dummy" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/data/dummy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/normalization.md" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/normalization.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/notes-on-ENC-DEC_encoding-decoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/notes-on-ENC-DEC_encoding-decoding.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/notes-on-UNICODE.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/notes-on-UNICODE.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/notes-on_DICTS_dict-variations.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/notes-on_DICTS_dict-variations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/notes-on_ITERABLES_slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/notes-on_ITERABLES_slicing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/notes-on_ITERABLES_tuple-vs-list.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/notes-on_ITERABLES_tuple-vs-list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/notes-on_LISTS_sort-vs-sorted.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/notes-on_LISTS_sort-vs-sorted.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/notes-on_LISTS_start-and-plus-operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/notes-on_LISTS_start-and-plus-operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/notes-on_STRINGS-BYTES_unicode-text-versus-bytes.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/notes-on_STRINGS-BYTES_unicode-text-versus-bytes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/notes-on_TUPLES_check-immutability.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/notes-on_TUPLES_check-immutability.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/python-array-module-overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/python-array-module-overview.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures/unicode-sandwich.md" beforeDir="false" afterPath="$PROJECT_DIR$/p2-data-structures/unicode-sandwich.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prologue/python-data-model/2d-vector.py" beforeDir="false" afterPath="$PROJECT_DIR$/p1-prologue/python-data-model/2d-vector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prologue/python-data-model/pythonic-deck-card.py" beforeDir="false" afterPath="$PROJECT_DIR$/p1-prologue/python-data-model/pythonic-deck-card.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/average_oo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/clockdecorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/clockdecorator0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/clockdecorator1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/data/closure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/htmlize-app/htmlize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/registration-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/registration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/single-dispatch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/weird-global-issue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,29 +39,177 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2aict3S3Fxtz9KrNvmfsh4TkhvJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in test.py.executor": "Run",
+    "Python.average_oo.executor": "Run",
+    "Python.charindex.executor": "Run",
+    "Python.clockdecorator.executor": "Run",
+    "Python.clockdecorator0.executor": "Run",
+    "Python.columnize.executor": "Run",
+    "Python.registration-2.executor": "Run",
+    "Python.single-dispatch.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.top_n.executor": "Run",
+    "Python.weird-global-issue.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/abdou/Documents/apps/fluent-python",
+    "last_opened_file_path": "/home/abdou/Documents/apps/abdoufermat5-folio",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.registration-2">
+    <configuration name="clockdecorator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fluent-python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/clockdecorator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clockdecorator0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fluent-python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/clockdecorator0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="registration-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fluent-python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/registration-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="single-dispatch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fluent-python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/single-dispatch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fluent-python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.registration-2" />
+        <item itemvalue="Python.single-dispatch" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.clockdecorator" />
+        <item itemvalue="Python.clockdecorator0" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -91,8 +225,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704805051964</updated>
-      <workItem from="1704805053836" duration="2568000" />
+      <workItem from="1704805053836" duration="4398000" />
+      <workItem from="1704874359609" duration="610000" />
+      <workItem from="1705659724214" duration="23138000" />
+      <workItem from="1705918830671" duration="28000" />
+      <workItem from="1705996011351" duration="1818000" />
+      <workItem from="1706252327797" duration="5583000" />
     </task>
+    <task id="LOCAL-00001" summary="great path">
+      <option name="closed" value="true" />
+      <created>1704812175618</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704812175618</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,5 +249,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="great path" />
     <option name="LAST_COMMIT_MESSAGE" value="great path" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/fluent_python$average_oo.coverage" NAME="average_oo Coverage Results" MODIFIED="1705836544698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures" />
+    <SUITE FILE_PATH="coverage/fluent_python$top_n.coverage" NAME="top_n Coverage Results" MODIFIED="1705830771221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p3-functions-as-objects/types-hints" />
+    <SUITE FILE_PATH="coverage/fluent_python$clockdecorator0.coverage" NAME="clockdecorator0 Coverage Results" MODIFIED="1705838243957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures" />
+    <SUITE FILE_PATH="coverage/fluent_python$clockdecorator.coverage" NAME="clockdecorator Coverage Results" MODIFIED="1705841512868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures" />
+    <SUITE FILE_PATH="coverage/fluent_python$registration_2.coverage" NAME="registration-2 Coverage Results" MODIFIED="1706256315897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures" />
+    <SUITE FILE_PATH="coverage/fluent_python$charindex.coverage" NAME="charindex Coverage Results" MODIFIED="1705830119056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p3-functions-as-objects/types-hints" />
+    <SUITE FILE_PATH="coverage/fluent_python$columnize.coverage" NAME="columnize Coverage Results" MODIFIED="1705828681422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p3-functions-as-objects/types-hints" />
+    <SUITE FILE_PATH="coverage/fluent_python$weird_global_issue.coverage" NAME="weird-global-issue Coverage Results" MODIFIED="1705836542170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures" />
+    <SUITE FILE_PATH="coverage/fluent_python$.coverage" NAME=" Coverage Results" MODIFIED="1704815005879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fluent_python$test.coverage" NAME="test Coverage Results" MODIFIED="1705998923451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fluent_python$single_dispatch.coverage" NAME="single-dispatch Coverage Results" MODIFIED="1706255152837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures" />
   </component>
 </project>
