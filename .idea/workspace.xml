@@ -5,17 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c83d2fa5-7f1d-451d-a01f-ccb8b22487ba" name="Changes" comment="great path">
-      <change afterPath="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/average_oo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/clockdecorator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/clockdecorator0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/clockdecorator1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/data/closure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/htmlize-app/htmlize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/registration-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/registration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/single-dispatch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/weird-global-issue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazing-scripts/my-calendar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p4-classes-and-protocols/pythonic-object/instance-static-class-methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p4-classes-and-protocols/pythonic-object/memory_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p4-classes-and-protocols/pythonic-object/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p4-classes-and-protocols/pythonic-object/some-formatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p4-classes-and-protocols/pythonic-object/test_vector_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p4-classes-and-protocols/pythonic-object/vector2D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p4-classes-and-protocols/pythonic-object/vector2D_slots.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,9 +55,12 @@
     "Python.clockdecorator.executor": "Run",
     "Python.clockdecorator0.executor": "Run",
     "Python.columnize.executor": "Run",
+    "Python.memory_tests.executor": "Run",
+    "Python.my-calendar.executor": "Run",
     "Python.registration-2.executor": "Run",
     "Python.single-dispatch.executor": "Run",
     "Python.test.executor": "Run",
+    "Python.test_vector_impl.executor": "Run",
     "Python.top_n.executor": "Run",
     "Python.weird-global-issue.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -84,8 +84,8 @@
       <recent name="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.registration-2">
-    <configuration name="clockdecorator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.my-calendar">
+    <configuration name="memory_tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fluent-python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,12 +94,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/p4-classes-and-protocols/pythonic-object" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/clockdecorator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p4-classes-and-protocols/pythonic-object/memory_tests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="clockdecorator0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="my-calendar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fluent-python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,12 +117,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazing-scripts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures/clockdecorator0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazing-scripts/my-calendar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_vector_impl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fluent-python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,12 +186,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/p4-classes-and-protocols/pythonic-object" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p4-classes-and-protocols/pythonic-object/test_vector_impl.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,18 +202,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.my-calendar" />
+        <item itemvalue="Python.test_vector_impl" />
+        <item itemvalue="Python.memory_tests" />
         <item itemvalue="Python.registration-2" />
         <item itemvalue="Python.single-dispatch" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.clockdecorator" />
-        <item itemvalue="Python.clockdecorator0" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
       </set>
     </attachedChunks>
   </component>
@@ -231,6 +231,7 @@
       <workItem from="1705918830671" duration="28000" />
       <workItem from="1705996011351" duration="1818000" />
       <workItem from="1706252327797" duration="5583000" />
+      <workItem from="1706714346373" duration="5072000" />
     </task>
     <task id="LOCAL-00001" summary="great path">
       <option name="closed" value="true" />
@@ -251,14 +252,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="great path" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/fluent_python$average_oo.coverage" NAME="average_oo Coverage Results" MODIFIED="1705836544698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures" />
-    <SUITE FILE_PATH="coverage/fluent_python$top_n.coverage" NAME="top_n Coverage Results" MODIFIED="1705830771221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p3-functions-as-objects/types-hints" />
     <SUITE FILE_PATH="coverage/fluent_python$clockdecorator0.coverage" NAME="clockdecorator0 Coverage Results" MODIFIED="1705838243957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures" />
-    <SUITE FILE_PATH="coverage/fluent_python$clockdecorator.coverage" NAME="clockdecorator Coverage Results" MODIFIED="1705841512868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures" />
-    <SUITE FILE_PATH="coverage/fluent_python$registration_2.coverage" NAME="registration-2 Coverage Results" MODIFIED="1706256315897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures" />
+    <SUITE FILE_PATH="coverage/fluent_python$top_n.coverage" NAME="top_n Coverage Results" MODIFIED="1705830771221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p3-functions-as-objects/types-hints" />
     <SUITE FILE_PATH="coverage/fluent_python$charindex.coverage" NAME="charindex Coverage Results" MODIFIED="1705830119056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p3-functions-as-objects/types-hints" />
+    <SUITE FILE_PATH="coverage/fluent_python$memory_tests.coverage" NAME="memory_tests Coverage Results" MODIFIED="1706714656307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p4-classes-and-protocols/pythonic-object" />
     <SUITE FILE_PATH="coverage/fluent_python$columnize.coverage" NAME="columnize Coverage Results" MODIFIED="1705828681422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p3-functions-as-objects/types-hints" />
     <SUITE FILE_PATH="coverage/fluent_python$weird_global_issue.coverage" NAME="weird-global-issue Coverage Results" MODIFIED="1705836542170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures" />
+    <SUITE FILE_PATH="coverage/fluent_python$average_oo.coverage" NAME="average_oo Coverage Results" MODIFIED="1705836544698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures" />
+    <SUITE FILE_PATH="coverage/fluent_python$clockdecorator.coverage" NAME="clockdecorator Coverage Results" MODIFIED="1705841512868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures" />
+    <SUITE FILE_PATH="coverage/fluent_python$registration_2.coverage" NAME="registration-2 Coverage Results" MODIFIED="1706256315897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures" />
+    <SUITE FILE_PATH="coverage/fluent_python$test_vector_impl.coverage" NAME="test_vector_impl Coverage Results" MODIFIED="1706717037772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p4-classes-and-protocols/pythonic-object" />
+    <SUITE FILE_PATH="coverage/fluent_python$my_calendar.coverage" NAME="my-calendar Coverage Results" MODIFIED="1706722870902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/amazing-scripts" />
     <SUITE FILE_PATH="coverage/fluent_python$.coverage" NAME=" Coverage Results" MODIFIED="1704815005879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fluent_python$test.coverage" NAME="test Coverage Results" MODIFIED="1705998923451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fluent_python$single_dispatch.coverage" NAME="single-dispatch Coverage Results" MODIFIED="1706255152837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p3-functions-as-objects/decorators-and-closures" />

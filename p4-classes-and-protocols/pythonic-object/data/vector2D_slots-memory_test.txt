@@ -1,0 +1,12 @@
+Performance data for module vector2D_slots by creating 5500000 instances of class Vector2D
+
+metric             | value
+------------------------------------------------------------
+module_name        | vector2D_slots
+vector_class       | <class 'vector2D_slots.Vector2D'>
+time               | 0.14023415200063027 s
+initial_memory     | 79580 KB
+final_memory       | 79580 KB
+memory_diff        | 0 KB
+current_memory     | 10155.44140625 KB
+peak_memory        | 10155.6328125 KB
